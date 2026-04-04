@@ -18,6 +18,11 @@ public class TicketController {
         this.getTicketUseCase = getTicketUseCase;
     }
 
+    @GetMapping("/ping")
+    public String ping() {
+        return "Todo ok con los tickets";
+    }
+
     @PostMapping
     public Ticket createTicket(@RequestBody Ticket ticket) {
 
