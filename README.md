@@ -53,3 +53,10 @@ En este trabajo utilizamos herramientas de IA para los siguientes puntos:
 
 **Reflexión de Yeider Catari:**
 La verdad es que al principio me sentí un poco perdido con tanto comando de Git, sobre todo con el tema de los Pull Requests y la creación de ramas para cumplir con GitFlow, pero al aplicarlo entendí rápido y logre trabajar bien junto a mi compañera.
+
+
+
+
+**Reflexión de Yaquelin Rugel:**
+Al inicio me resultó un poco complejo entender cómo funcionaban los comandos de Git, especialmente el manejo de ramas y el flujo de trabajo con GitFlow. Sin embargo, a medida que fui practicando y aplicando los conceptos en el proyecto, logré comprender mejor su utilidad. El trabajo en equipo también fue clave, ya que permitió apoyarnos mutuamente y avanzar de manera más organizada. Finalmente, esta experiencia me ayudó a fortalecer mis habilidades y a sentirme más seguro utilizando herramientas de control de versiones.
+
